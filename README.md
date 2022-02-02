@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python Django Framework**
 
-- 👨‍💻 All of my projects are available at [takinur.com](takinur.com)
+- 👨‍💻 All of my projects are available at <a href="https://codepen.io/takinur" target="blank">(takinur.com)</a>
 
 - 💬 Ask me about **PHP and Laravel**
 
