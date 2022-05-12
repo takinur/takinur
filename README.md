@@ -96,5 +96,8 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=takinur&hide_border=true&theme=redical)
 
-
-
+---
+<p align="center"> HandCrafted by Me. </p>
+<p align="center">
+https://www.takinur.com
+</p>
