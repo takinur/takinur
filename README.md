@@ -6,10 +6,6 @@
 <!-- <h4 align="center"> I like to Code, Design, Innovate and Experiment. I'm a quiet confident person who is naturally curious and is constantly working on improving my skills and resolving one development problem at a time..</h4>
 <br> -->
 
-## 🔝 Most used languages
-
-  <p align="center" ><img  alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takinur&layout=compact&hide_border=true&theme=radical" />
-
 - 📚 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at <a href="https://takinur.com" target="blank">(takinur.com)</a>
@@ -36,6 +32,9 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+<!-- ## 🔝 Most used languages -->
+
+  <p align="center" ><img  alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takinur&layout=compact&hide_border=true&theme=radical" />
 
 ---
 
