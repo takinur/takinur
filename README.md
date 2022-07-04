@@ -3,8 +3,12 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&color=4ABA25&center=true&width=500&lines=Full-Stack+Web+developer;Living%2C+learning;%26+leveling+up+one+day+at+a+time."></a>
 </p>
 <hr/>
-<h4 align="center"> I like to Code, Design, Innovate and Experiment. I'm a quiet confident person who is naturally curious and is constantly working on improving my skills and resolving one development problem at a time..</h4>
-<br>
+<!-- <h4 align="center"> I like to Code, Design, Innovate and Experiment. I'm a quiet confident person who is naturally curious and is constantly working on improving my skills and resolving one development problem at a time..</h4>
+<br> -->
+
+## 🔝 Most used languages
+
+  <p align="center" ><img  alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takinur&layout=compact&hide_border=true&theme=radical" />
 
 - 📚 I’m currently learning **TypeScript**
 
@@ -81,9 +85,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-## 🔝 Most used languages
 
-  <p align="center" ><img  alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takinur&layout=compact&hide_border=true&theme=radical" />
 
 ## 📈 Stats
 
