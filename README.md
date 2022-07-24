@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://takinur.com" target="blank">(takinur.com)</a>
 
-- 💬 Ask me about **PHP and Laravel**
+- 💬 Ask me about **PHP and JavaScript**
 
 - ⚡ Fun fact **I love to Code.**
 
