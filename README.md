@@ -10,11 +10,12 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://takinur.com" target="blank">(takinur.com)</a>
 
+<!--
 - 💬 Ask me about **PHP and JavaScript**
 
 - ⚡ Fun fact **I love to Code.**
 
-
+-->
 <p align="center">
       <a href="https://www.takinur.com/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
