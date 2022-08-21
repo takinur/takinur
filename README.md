@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Takinur M</h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&color=4ABA25&center=true&width=500&lines=Web+developer"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=georgia&color=4ABA25&center=true&width=500&lines=Web+developer;Software+Engineer"></a>
 </p>
 <hr/>
 <!-- <h4 align="center"> I like to Code, Design, Innovate and Experiment. I'm a quiet confident person who is naturally curious and is constantly working on improving my skills and resolving one development problem at a time..</h4>
