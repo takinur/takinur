@@ -40,7 +40,7 @@
   <p align="center" ><img  alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takinur&layout=compact&hide_border=true&theme=radical" />
 
 ---
-
+<!-- 
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
@@ -54,10 +54,10 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+</p> -->
 
 
-
+<!-- 
 
 ### 🧩 Libraries & Framework
 <p>
@@ -71,8 +71,8 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
   
-</p>
-
+</p> -->
+<!-- 
 
 ### 🧑🏻‍💻 Tools & Platform
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -104,21 +104,21 @@
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-
+ -->
+<!-- 
 ## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=takinur&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=takinur&hide_border=true&theme=radical" />
 </p>
-
+ -->
 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=takinur&hide_border=true&theme=redical)
 
----
-<p align="center"> HandCrafted by Me. </p>
+<!-- --- -->
+<!-- <p align="center"> HandCrafted by Me. </p>
 <p align="center">
 https://www.takinur.com
-</p>
+</p> -->
