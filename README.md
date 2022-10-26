@@ -11,9 +11,6 @@
 - 👨‍💻 All of my projects are available at <a href="https://takinur.com" target="blank">(takinur.com)</a>
 
 <!--
-- 💬 Ask me about **PHP and JavaScript**
-
-- ⚡ Fun fact **I love to Code.**
 
 //---------------------------------------------- Get Badges from HERE: https://ileriayo.github.io/markdown-badges/
 
