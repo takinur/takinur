@@ -8,7 +8,7 @@
 
 - 📚 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://takinur.com" target="blank">(takinur.com)</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.takinur.com" target="blank">(takinur.com)</a>
 
 <!--
 
