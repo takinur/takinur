@@ -112,7 +112,8 @@
  -->
 
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=takinur&hide_border=true&theme=redical)
+
+[![Takinur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=takinur&hide_border=true&theme=redical)](https://github.com/takinur)
 
 <!-- --- -->
 <!-- <p align="center"> HandCrafted by Me. </p>
