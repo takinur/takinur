@@ -113,7 +113,7 @@
 
  
 
-[![Takinur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=takinur&hide_border=true&theme=redical)](https://github.com/takinur)
+[![Takinur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takinur&hide_border=true&theme=redical)](https://github.com/takinur)
 
 <!-- --- -->
 <!-- <p align="center"> HandCrafted by Me. </p>
