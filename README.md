@@ -112,10 +112,10 @@
  -->
 
  
-
+<!--
 [![Takinur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takinur&hide_border=true&theme=redical)](https://github.com/takinur)
 
-<!-- --- -->
+ --- -->
 <!-- <p align="center"> HandCrafted by Me. </p>
 <p align="center">
 https://www.takinur.com
