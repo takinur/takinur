@@ -6,7 +6,7 @@
 <!-- <h4 align="center"> I like to Code, Design, Innovate and Experiment. I'm a quiet confident person who is naturally curious and is constantly working on improving my skills and resolving one development problem at a time..</h4>
 <br> -->
 
-- 📚 I’m currently learning **Machine Learning**
+- 📚 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.takinur.com" target="blank">(takinur.com)</a>
 
