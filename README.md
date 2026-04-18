@@ -19,7 +19,7 @@
   <a href="https://github.com/takinur">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:takinurm@gmail.com">
+  <a href="mailto:ping@takinur.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
