@@ -80,8 +80,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 📊 **[Phasely — AI powered Chrome extension Manifest V3](https://github.com/takinur/phasely)** | Phasely fills job application forms automatically from a single encrypted markdown. No accounts. No servers. No subscription. No nonsense | TypeScript, Reach, Gemini APi |
 | 🛡️ **NIDS — Network Intrusion Detection[Private]** | 94% detection accuracy on 5 zero-day attack classes; outperformed XGBoost baseline by 11pp via 5-fold CV | Python, TensorFlow, Scikit-learn |
-| 🤖 **[Talent Screening AI](https://github.com/takinur/skirmisherAI)** | End-to-end AI hiring pipeline — automated resume screening & candidate ranking, ↓60% manual review | Python, Django, OpenAI GPT API |
+| 🤖 **[Talent Screening AI](https://www.takinur.com/project/skirmisherai)** | End-to-end AI hiring pipeline — automated resume screening & candidate ranking, ↓60% manual review | Python, Django, OpenAI GPT API |
 | 💬 **LLM HR Chatbot[Private]** | GPT-powered HR assistant; ↓40% query resolution time, ↓6% reliance on human agents | Python, OpenAI API, Next.js |
 | 📊 **Payroll Anomaly Forecaster[Private]** | Predictive analytics pipeline to flag payroll discrepancies before processing | Python, FastAPI, PostgreSQL |
 
