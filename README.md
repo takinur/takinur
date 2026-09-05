@@ -80,11 +80,21 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 📊 **[Phasely — AI powered Chrome extension Manifest V3](https://github.com/takinur/phasely)** | Phasely fills job application forms automatically from a single encrypted markdown. No accounts. No servers. No subscription. No nonsense | TypeScript, Reach, Gemini APi |
-| 🛡️ **NIDS — Network Intrusion Detection[Private]** | 94% detection accuracy on 5 zero-day attack classes; outperformed XGBoost baseline by 11pp via 5-fold CV | Python, TensorFlow, Scikit-learn |
-| 🤖 **[Talent Screening AI](https://www.takinur.com/project/skirmisherai)** | End-to-end AI hiring pipeline — automated resume screening & candidate ranking, ↓60% manual review | Python, Django, OpenAI GPT API |
-| 💬 **LLM HR Chatbot[Private]** | GPT-powered HR assistant; ↓40% query resolution time, ↓6% reliance on human agents | Python, OpenAI API, Next.js |
-| 📊 **Payroll Forecaster[Private]** | Predictive analytics pipeline to flag payroll discrepancies before processing | Python, FastAPI, PostgreSQL |
+| 🧩 **[Phasely](https://github.com/takinur/phasely)** | AI-powered Chrome extension (Manifest V3) that auto-fills job application forms from a single encrypted markdown profile. No accounts. No servers. No subscription. | TypeScript, React, Gemini API |
+| 🛡️ **[NIDS](https://github.com/takinur/NIDS)** | Network intrusion detection with few-shot learning — 94% detection accuracy across 5 zero-day attack classes, +11pp over an XGBoost baseline (5-fold CV). | Python, TensorFlow, scikit-learn |
+| 🤖 **[skirmisherAI](https://github.com/takinur/skirmisherAI)** | End-to-end AI hiring pipeline — NLP skill extraction matched against job descriptions to rank candidates. Cut manual review time by 60%. | Python, Django REST, React, TensorFlow |
+| 🚗 **[torqueLens](https://github.com/takinur/torqueLens)** | Automotive sentiment & topic intelligence — interactive analysis of how EV and brand conversations shift over time. | Python, NLP, Social Network Analysis |
+| 🧪 **[cluster-arena](https://github.com/takinur/cluster-arena)** | Eight unsupervised clustering algorithms benchmarked on one dataset in a single interactive dashboard. | Python, scikit-learn, Jupyter |
+| 🖼️ **[image-compression-api](https://github.com/takinur/image-compression-api)** | Image compression API with Stripe-backed paywall and usage metering. | TypeScript, Node, Stripe |
+
+### 💼 Client work — code not public
+
+Built at **F2A Partners**. Source isn't public, so there's nothing to link here.
+
+| Project | Outcome | Stack |
+|---|---|---|
+| 💬 LLM HR Chatbot | GPT-powered HR assistant — 40% faster query resolution, 6% less reliance on human agents | Python, OpenAI API, Next.js |
+| 📊 Payroll Forecaster | Predictive pipeline flagging payroll discrepancies before processing | Python, FastAPI, PostgreSQL |
 
 ---
 
